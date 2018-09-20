@@ -1,0 +1,13 @@
+.main {
+  width: 400px;
+  text-align: center;
+  padding-left: 40%;
+}
+
+ul {
+  text-align: left;
+}
+
+button {
+  margin-left: 15px;
+}
